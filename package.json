@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://cuuquan2703.github.io",
+  "homepage":"https://cuuquan2703.github.io/ERC20SIMPLE",
   "dependencies": {
     "@metamask/detect-provider": "^1.2.0",
     "@testing-library/jest-dom": "^5.14.1",

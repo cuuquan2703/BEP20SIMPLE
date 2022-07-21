@@ -23,7 +23,7 @@ function App() {
         }
     }
 
-    const ContractToken = new ethers.Contract("0x6aa51cCF37b6DF27f36cb3322bdA7783D2012301",abi,signer)
+    const ContractToken = new ethers.Contract("0x2c2AEBd31B15A18679CA22a85816960E72E591cA",abi,signer)
     console.log(abi)
     console.log(ContractToken)
     async function Buy() {
